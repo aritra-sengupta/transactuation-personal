@@ -1,0 +1,9 @@
+{
+  "name": "transactuation",
+  "version": "0.0.1",
+  "description": "A datastore that provides transactuation abstraction",
+  "main": "index.js",
+  "dependencies": {
+    "documentdb": "^1.6.0"
+  }
+}
